@@ -1,1 +1,1 @@
-This is Chat page layout
+##This is a simple Chat page layout 
